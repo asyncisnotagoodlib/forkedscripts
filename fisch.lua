@@ -562,7 +562,7 @@ local function getMethodLoading()
 
     local NameTextLibrary = ""
     if Iden == "Solara" then
-        NameTextLibrary = "[Solara UNC]";
+        NameTextLibrary = "[trash exec]";
         Notification.new({
             Description = "Your current Executor is Solara or Solara Skidded and may not fully support this script. You will be using custom prompt function (R)";
             Title = "Neuron X Executor";
@@ -575,8 +575,8 @@ local function getMethodLoading()
 
     if Iden == "Solara" then
         Windows = NothingLibrary.new({
-            Title = "Fisch " .. NameTextLibrary,
-            Description = "By Neuron X",
+            Title = "yash is ga " .. NameTextLibrary,
+            Description = "reuploaded by neon",
             Keybind = Enum.KeyCode.T,
             Logo = 'http://www.roblox.com/asset/?id=80055499055359',
             Size = UDim2.new(0.100000001, 445, 0.100000001, 315),
@@ -588,8 +588,8 @@ local function getMethodLoading()
         });
     else
         Windows = NothingLibrary.new({
-            Title = "Fisch " .. NameTextLibrary,
-            Description = "By Neuron X",
+            Title = "yash is ga " .. NameTextLibrary,
+            Description = "reuploaded by neon",
             Keybind = Enum.KeyCode.T,
             Logo = 'http://www.roblox.com/asset/?id=80055499055359',
             Size = UDim2.new(0.100000001, 445, 0.100000001, 315),
